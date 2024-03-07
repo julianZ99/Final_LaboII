@@ -1,0 +1,907 @@
+# depslib dependency file v1.0
+1667946937 source:c:\users\franco\onedrive\escritorio\codeblocks\jumbo-patacon (propuesta simple)\arbol.c
+	"arbol.h"
+
+1667943956 c:\users\franco\onedrive\escritorio\codeblocks\jumbo-patacon (propuesta simple)\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"productos.h"
+
+1667946689 c:\users\franco\onedrive\escritorio\codeblocks\jumbo-patacon (propuesta simple)\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1667947028 source:c:\users\franco\onedrive\escritorio\codeblocks\jumbo-patacon (propuesta simple)\productos.c
+	"productos.h"
+
+1667946739 source:c:\users\franco\onedrive\escritorio\codeblocks\jumbo-patacon (propuesta simple)\clientes.c
+	"clientes.h"
+
+1667944862 c:\users\franco\onedrive\escritorio\codeblocks\jumbo-patacon (propuesta simple)\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaPedidos.h"
+
+1667944862 c:\users\franco\onedrive\escritorio\codeblocks\jumbo-patacon (propuesta simple)\listapedidos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"productos.h"
+	"arbol.h"
+
+1667946491 source:c:\users\franco\onedrive\escritorio\codeblocks\jumbo-patacon (propuesta simple)\listapedidos.c
+	"listaPedidos.h"
+
+1667946508 source:c:\users\franco\onedrive\escritorio\codeblocks\jumbo-patacon (propuesta simple)\menu.c
+
+1667944202 c:\users\franco\onedrive\escritorio\codeblocks\jumbo-patacon (propuesta simple)\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"clientes.h"
+
+1667947188 source:c:\users\franco\onedrive\escritorio\codeblocks\jumbo-patacon (propuesta simple)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"arbol.h"
+	"productos.h"
+	"menu.h"
+	"clientes.h"
+	"listaPedidos.h"
+
+1668095995 source:c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (propuesta simple)\clientes.c
+	"clientes.h"
+
+1668089510 c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (propuesta simple)\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaPedidos.h"
+
+1668089327 c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (propuesta simple)\listapedidos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"productos.h"
+	"arbol.h"
+
+1668098399 c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (propuesta simple)\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1667925956 c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (propuesta simple)\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"productos.h"
+
+1668090267 source:c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (propuesta simple)\listapedidos.c
+	"listaPedidos.h"
+
+1668099834 source:c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (propuesta simple)\menu.c
+	"menu.h"
+
+1668099834 source:c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (propuesta simple)\productos.c
+	"productos.h"
+
+1668099362 source:c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (propuesta simple)\arbol.c
+	"arbol.h"
+
+1668093391 source:c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (propuesta simple)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"arbol.h"
+	"productos.h"
+	"menu.h"
+	"clientes.h"
+	"listaPedidos.h"
+
+1668100192 c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (propuesta simple)\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"clientes.h"
+
+1668115311 source:d:\jumbo-patacon (propuesta simple)\arbol.c
+	"arbol.h"
+
+1668082566 d:\jumbo-patacon (propuesta simple)\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"productos.h"
+
+1668116337 d:\jumbo-patacon (propuesta simple)\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1668121071 source:d:\jumbo-patacon (propuesta simple)\clientes.c
+	"clientes.h"
+
+1668120293 d:\jumbo-patacon (propuesta simple)\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaPedidos.h"
+
+1668082568 d:\jumbo-patacon (propuesta simple)\listapedidos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"productos.h"
+	"arbol.h"
+
+1668082568 source:d:\jumbo-patacon (propuesta simple)\listapedidos.c
+	"listaPedidos.h"
+
+1668082568 source:d:\jumbo-patacon (propuesta simple)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"arbol.h"
+	"productos.h"
+	"menu.h"
+	"clientes.h"
+	"listaPedidos.h"
+
+1668082568 d:\jumbo-patacon (propuesta simple)\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"clientes.h"
+
+1668117851 source:d:\jumbo-patacon (propuesta simple)\productos.c
+	"productos.h"
+
+1668120849 source:d:\jumbo-patacon (propuesta simple)\menu.c
+	"menu.h"
+
+1668097310 source:d:\jumbo-patacon (propuesta simple - terminada)\arbol.c
+	"arbol.h"
+
+1668064566 d:\jumbo-patacon (propuesta simple - terminada)\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"productos.h"
+
+1668098336 d:\jumbo-patacon (propuesta simple - terminada)\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1668103070 source:d:\jumbo-patacon (propuesta simple - terminada)\clientes.c
+	"clientes.h"
+
+1668102292 d:\jumbo-patacon (propuesta simple - terminada)\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaPedidos.h"
+
+1668064568 d:\jumbo-patacon (propuesta simple - terminada)\listapedidos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"productos.h"
+	"arbol.h"
+
+1668064568 source:d:\jumbo-patacon (propuesta simple - terminada)\listapedidos.c
+	"listaPedidos.h"
+
+1668064568 source:d:\jumbo-patacon (propuesta simple - terminada)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"arbol.h"
+	"productos.h"
+	"menu.h"
+	"clientes.h"
+	"listaPedidos.h"
+
+1668064568 d:\jumbo-patacon (propuesta simple - terminada)\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"clientes.h"
+
+1668102848 source:d:\jumbo-patacon (propuesta simple - terminada)\menu.c
+	"menu.h"
+
+1668099850 source:d:\jumbo-patacon (propuesta simple - terminada)\productos.c
+	"productos.h"
+
+1668105852 source:c:\users\franco\onedrive\escritorio\jumbo-patacon (propuesta simple - terminada)\arbol.c
+	"arbol.h"
+
+1668283298 c:\users\franco\onedrive\escritorio\jumbo-patacon (propuesta simple - terminada)\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"productos.h"
+
+1668283298 c:\users\franco\onedrive\escritorio\jumbo-patacon (propuesta simple - terminada)\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1668283333 source:c:\users\franco\onedrive\escritorio\jumbo-patacon (propuesta simple - terminada)\menu.c
+	"menu.h"
+
+1668105854 c:\users\franco\onedrive\escritorio\jumbo-patacon (propuesta simple - terminada)\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"clientes.h"
+
+1668283298 c:\users\franco\onedrive\escritorio\jumbo-patacon (propuesta simple - terminada)\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaPedidos.h"
+
+1668283168 c:\users\franco\onedrive\escritorio\jumbo-patacon (propuesta simple - terminada)\listapedidos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"productos.h"
+	"arbol.h"
+
+1668105854 source:c:\users\franco\onedrive\escritorio\jumbo-patacon (propuesta simple - terminada)\productos.c
+	"productos.h"
+
+1668283168 source:c:\users\franco\onedrive\escritorio\jumbo-patacon (propuesta simple - terminada)\clientes.c
+	"clientes.h"
+
+1668283168 source:c:\users\franco\onedrive\escritorio\jumbo-patacon (propuesta simple - terminada)\listapedidos.c
+	"listaPedidos.h"
+
+1668283337 source:c:\users\franco\onedrive\escritorio\jumbo-patacon (propuesta simple - terminada)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"arbol.h"
+	"productos.h"
+	"menu.h"
+	"clientes.h"
+	"listaPedidos.h"
+
+1668710817 source:c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (propuesta simple - terminada)\arbol.c
+	"arbol.h"
+
+1668613456 c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (propuesta simple - terminada)\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"productos.h"
+
+1668711049 c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (propuesta simple - terminada)\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1668614554 source:c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (propuesta simple - terminada)\listapedidos.c
+	"listaPedidos.h"
+
+1668709898 c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (propuesta simple - terminada)\listapedidos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"productos.h"
+	"arbol.h"
+
+1668710974 source:c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (propuesta simple - terminada)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"arbol.h"
+	"productos.h"
+	"menu.h"
+	"clientes.h"
+
+1668710817 c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (propuesta simple - terminada)\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"clientes.h"
+
+1668711049 c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (propuesta simple - terminada)\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"productos.h"
+	"arbol.h"
+
+1668710817 source:c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (propuesta simple - terminada)\productos.c
+	"productos.h"
+
+1668711080 source:c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (propuesta simple - terminada)\clientes.c
+	"clientes.h"
+
+1668710817 source:c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (propuesta simple - terminada)\menu.c
+	"menu.h"
+
+1668272650 source:c:\users\kevin\desktop\cosas\jumbo-patacon (propuesta simple - terminada)\arbol.c
+	"arbol.h"
+
+1668272650 c:\users\kevin\desktop\cosas\jumbo-patacon (propuesta simple - terminada)\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"productos.h"
+
+1668272652 c:\users\kevin\desktop\cosas\jumbo-patacon (propuesta simple - terminada)\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1668310690 source:c:\users\kevin\desktop\cosas\jumbo-patacon (propuesta simple - terminada)\clientes.c
+	"clientes.h"
+
+1668272650 c:\users\kevin\desktop\cosas\jumbo-patacon (propuesta simple - terminada)\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"listaPedidos.h"
+
+1668272652 c:\users\kevin\desktop\cosas\jumbo-patacon (propuesta simple - terminada)\listapedidos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"productos.h"
+	"arbol.h"
+
+1668272652 source:c:\users\kevin\desktop\cosas\jumbo-patacon (propuesta simple - terminada)\listapedidos.c
+	"listaPedidos.h"
+
+1668272652 source:c:\users\kevin\desktop\cosas\jumbo-patacon (propuesta simple - terminada)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"arbol.h"
+	"productos.h"
+	"menu.h"
+	"clientes.h"
+	"listaPedidos.h"
+
+1668272652 c:\users\kevin\desktop\cosas\jumbo-patacon (propuesta simple - terminada)\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"clientes.h"
+
+1668272652 source:c:\users\kevin\desktop\cosas\jumbo-patacon (propuesta simple - terminada)\menu.c
+	"menu.h"
+
+1668272652 source:c:\users\kevin\desktop\cosas\jumbo-patacon (propuesta simple - terminada)\productos.c
+	"productos.h"
+
+1668692816 source:c:\users\julian\desktop\jumbo-patacon\arbol.c
+	"arbol.h"
+
+1668595456 c:\users\julian\desktop\jumbo-patacon\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"productos.h"
+
+1668693048 c:\users\julian\desktop\jumbo-patacon\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1668692816 source:c:\users\julian\desktop\jumbo-patacon\menu.c
+	"menu.h"
+
+1668692816 c:\users\julian\desktop\jumbo-patacon\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"clientes.h"
+
+1668693048 c:\users\julian\desktop\jumbo-patacon\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"productos.h"
+	"arbol.h"
+
+1668692816 source:c:\users\julian\desktop\jumbo-patacon\productos.c
+	"productos.h"
+
+1668693248 source:c:\users\julian\desktop\jumbo-patacon\clientes.c
+	"clientes.h"
+
+1668712071 source:c:\users\julian\desktop\jumbo-patacon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"arbol.h"
+	"productos.h"
+	"menu.h"
+	"clientes.h"
+
+1668454251 source:c:\users\julian\desktop\jumbo-patacon\sonidos.c
+	"sonidos.h"
+
+1668390443 c:\users\julian\desktop\jumbo-patacon\sonidos.h
+	<windows.h>
+	<stdio.h>
+
+1668674816 source:c:\users\martin\downloads\presentacion final\jumbo-patacon (con musica)\arbol.c
+	"arbol.h"
+
+1668577456 c:\users\martin\downloads\presentacion final\jumbo-patacon (con musica)\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"productos.h"
+
+1668675048 c:\users\martin\downloads\presentacion final\jumbo-patacon (con musica)\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1668675248 source:c:\users\martin\downloads\presentacion final\jumbo-patacon (con musica)\clientes.c
+	"clientes.h"
+
+1668675048 c:\users\martin\downloads\presentacion final\jumbo-patacon (con musica)\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"productos.h"
+	"arbol.h"
+
+1668694070 source:c:\users\martin\downloads\presentacion final\jumbo-patacon (con musica)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"arbol.h"
+	"productos.h"
+	"menu.h"
+	"clientes.h"
+
+1668674816 c:\users\martin\downloads\presentacion final\jumbo-patacon (con musica)\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"clientes.h"
+
+1668674816 source:c:\users\martin\downloads\presentacion final\jumbo-patacon (con musica)\menu.c
+	"menu.h"
+
+1668674816 source:c:\users\martin\downloads\presentacion final\jumbo-patacon (con musica)\productos.c
+	"productos.h"
+
+1668436250 source:c:\users\martin\downloads\presentacion final\jumbo-patacon (con musica)\sonidos.c
+	"sonidos.h"
+
+1668372442 c:\users\martin\downloads\presentacion final\jumbo-patacon (con musica)\sonidos.h
+	<windows.h>
+	<stdio.h>
+
+1668722458 source:c:\users\martin\desktop\presentacion final\jumbo-patacon (con musica)\arbol.c
+	"arbol.h"
+
+1668577456 c:\users\martin\desktop\presentacion final\jumbo-patacon (con musica)\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"productos.h"
+
+1668675048 c:\users\martin\desktop\presentacion final\jumbo-patacon (con musica)\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1668675248 source:c:\users\martin\desktop\presentacion final\jumbo-patacon (con musica)\clientes.c
+	"clientes.h"
+
+1668675048 c:\users\martin\desktop\presentacion final\jumbo-patacon (con musica)\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"productos.h"
+	"arbol.h"
+
+1668694070 source:c:\users\martin\desktop\presentacion final\jumbo-patacon (con musica)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"arbol.h"
+	"productos.h"
+	"menu.h"
+	"clientes.h"
+
+1668674816 c:\users\martin\desktop\presentacion final\jumbo-patacon (con musica)\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"clientes.h"
+
+1668674816 source:c:\users\martin\desktop\presentacion final\jumbo-patacon (con musica)\menu.c
+	"menu.h"
+
+1668674816 source:c:\users\martin\desktop\presentacion final\jumbo-patacon (con musica)\productos.c
+	"productos.h"
+
+1668436250 source:c:\users\martin\desktop\presentacion final\jumbo-patacon (con musica)\sonidos.c
+	"sonidos.h"
+
+1668372442 c:\users\martin\desktop\presentacion final\jumbo-patacon (con musica)\sonidos.h
+	<windows.h>
+	<stdio.h>
+
+1668723175 source:d:\presentacion final\jumbo-patacon (con musica)\arbol.c
+	"arbol.h"
+
+1668723175 d:\presentacion final\jumbo-patacon (con musica)\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"productos.h"
+
+1668726666 d:\presentacion final\jumbo-patacon (con musica)\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1668724315 source:d:\presentacion final\jumbo-patacon (con musica)\clientes.c
+	"clientes.h"
+
+1668724315 d:\presentacion final\jumbo-patacon (con musica)\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"productos.h"
+	"arbol.h"
+
+1668723175 source:d:\presentacion final\jumbo-patacon (con musica)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"arbol.h"
+	"productos.h"
+	"menu.h"
+	"clientes.h"
+
+1668656816 d:\presentacion final\jumbo-patacon (con musica)\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"clientes.h"
+
+1668726758 source:d:\presentacion final\jumbo-patacon (con musica)\menu.c
+	"menu.h"
+
+1668726810 source:d:\presentacion final\jumbo-patacon (con musica)\productos.c
+	"productos.h"
+
+1668418250 source:d:\presentacion final\jumbo-patacon (con musica)\sonidos.c
+	"sonidos.h"
+
+1668354442 d:\presentacion final\jumbo-patacon (con musica)\sonidos.h
+	<windows.h>
+	<stdio.h>
+
+1668700626 source:c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (con musica) este\arbol.c
+	"arbol.h"
+
+1668700626 c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (con musica) este\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"productos.h"
+
+1669129370 c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (con musica) este\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1669042340 source:c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (con musica) este\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"arbol.h"
+	"productos.h"
+	"menu.h"
+	"clientes.h"
+
+1669043048 c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (con musica) este\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"clientes.h"
+
+1669129850 c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (con musica) este\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"productos.h"
+	"arbol.h"
+
+1669129370 source:c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (con musica) este\productos.c
+	"productos.h"
+
+1668700630 source:c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (con musica) este\sonidos.c
+	"sonidos.h"
+
+1668700630 c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (con musica) este\sonidos.h
+	<windows.h>
+	<stdio.h>
+
+1669308462 source:c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (con musica) este\menu.c
+	"menu.h"
+
+1669129850 source:c:\users\kevin\desktop\cosas\.exe\jumbo-patacon (con musica) este\clientes.c
+	"clientes.h"
+
+1669290524 source:c:\users\martin\desktop\jumbo-patacon (con musica) este\arbol.c
+	"arbol.h"
+
+1669290524 c:\users\martin\desktop\jumbo-patacon (con musica) este\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"productos.h"
+
+1669290526 c:\users\martin\desktop\jumbo-patacon (con musica) este\productos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1669290524 source:c:\users\martin\desktop\jumbo-patacon (con musica) este\clientes.c
+	"clientes.h"
+
+1669290524 c:\users\martin\desktop\jumbo-patacon (con musica) este\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"productos.h"
+	"arbol.h"
+
+1669326796 source:c:\users\martin\desktop\jumbo-patacon (con musica) este\menu.c
+	"menu.h"
+
+1669326369 c:\users\martin\desktop\jumbo-patacon (con musica) este\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"clientes.h"
+
+1669326159 source:c:\users\martin\desktop\jumbo-patacon (con musica) este\productos.c
+	"productos.h"
+
+1669290528 source:c:\users\martin\desktop\jumbo-patacon (con musica) este\sonidos.c
+	"sonidos.h"
+
+1669290528 c:\users\martin\desktop\jumbo-patacon (con musica) este\sonidos.h
+	<windows.h>
+	<stdio.h>
+
+1669326409 source:c:\users\martin\desktop\jumbo-patacon (con musica) este\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	<wchar.h>
+	<locale.h>
+	<windows.h>
+	"arbol.h"
+	"productos.h"
+	"menu.h"
+	"clientes.h"
+	"sonidos.h"
+
